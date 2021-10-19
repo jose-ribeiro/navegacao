@@ -1,0 +1,8 @@
+.Content{
+    display: flex;
+    flex-grow: 1;
+    background-image: url("https://i1.wp.com/emotioncard.com.br/wp-content/uploads/2019/04/plano-de-fundo-preto28.jpg?fit=2560%2C1600&ssl=1");
+    padding: 30px;
+    color: aliceblue;
+
+}

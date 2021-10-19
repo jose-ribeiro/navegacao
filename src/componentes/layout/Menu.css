@@ -1,0 +1,32 @@
+.Menu{
+    display: flex;
+    flex-basis: 250px;
+
+    background-image: url("https://st2.depositphotos.com/6504442/9283/i/950/depositphotos_92836556-stock-photo-raster-abstract-red-blurred-background.jpg");
+}
+
+.Menu ul{
+    list-style: none;
+    padding: 0;
+}
+
+.Menu li{
+    display: flex;
+}
+.Menu nav{
+    flex: 1;
+}
+.Menu li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size:  1.5rem;
+    padding: 10px;
+    margin-bottom: 1px;
+    flex: 1;
+}
+
+.Menu li a:hover{
+    background: #00000030;
+    
+}
+
